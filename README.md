@@ -11,4 +11,4 @@ ____________________
 
 [**Ссылка на проект в nbviewer**](https://nbviewer.org/github/RudkovYaroslav/Moscow_catering_industry/blob/main/Moscow_catering_industry.ipynb)
 
-[**Ссылка на презентацию для заказчика**](https://docs.google.com/presentation/d/1VkVmIwPwc7GRxEzurkFgenV_xTmFq1aNWUOfGksfwLc/edit#slide=id.g302ed0a7fe3_0_5)
+[**Ссылка на презентацию для заказчика**](https://docs.google.com/presentation/d/1VkVmIwPwc7GRxEzurkFgenV_xTmFq1aNWUOfGksfwLc/edit#slide=id.p)
